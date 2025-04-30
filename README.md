@@ -122,26 +122,25 @@ The dataset includes:
 
 ## 💡 Recommendations
 
-### 🔼 Scale High-Performing Markets
-- Invest more in Africa, LATAM, NYC, and LA
-- Partner with retailers in top regions
+## Scale High-Performing Market
+- Increase inventory and promotions in Africa, LATAM, and US cities like NYC and LA.
+- Expand partnerships with retailers in top regions.
 
-### 🧴 Revamp or Phase Out Poor Products
-- Consider delisting: Stila Eyeshadow, Burt’s Bees Lemon
-- Expand Body Care & Shampoo lines
+## Revamp or Phase Out Low-Selling Products
+- Review poor performers (e.g., Stila Eyeshadow, Burt’s Bees Lemon) for delisting or repositioning.
+- Focus R&D on expanding best-performing lines like shampoos and body care.
 
-### 🎯 Segment-Specific Targeting
-- Loyalty programs for Corporate buyers
-- Targeted offers for Home Office customers
+## Segment-Based Targeting
+- Design loyalty programs and bundles tailored to Corporate buyers.
+- Run targeted campaigns to uplift Consumer and Home Office segments.
 
-### 🎁 Seasonal Promotions
-- Launch bundles before Q4 sales peak
-- Offer limited editions during holidays
+## Seasonal Promotion Planning
+- Capitalize on Q4 peak sales with pre-planned campaigns from October onwards.
+- Launch holiday bundles and limited editions.
 
-### 🧾 Smarter Discount Strategy
-- Avoid blanket discounts
-- A/B test different discount levels
-- Promote value-based pricing
+## Optimize Discounting Strategy
+- Avoid blanket discounts; test with A/B pricing.
+- Promote value-based pricing and loyalty rewards to improve profit margins.
 
 ---
 ## E-Commerce Summary Report (Automated with Excel VBA)
