@@ -79,6 +79,22 @@ The dataset includes:
 
 ---
 
+
+## 📊 Dashboard Highlights
+- Total Sales, Profit, Units Sold, Avg Order Value
+- Region- and City-wise Sales Trends
+- Monthly Sales Trendline (Peak in December)
+- Discount vs Profitability Relationship
+- Best and Worst Performing Products
+- Orders by Marketplace (Asia Pacific, USCA)
+  
+![image](https://github.com/user-attachments/assets/5fc84430-2b97-4b0c-9e6f-25d3681c666a)
+
+![image](https://github.com/user-attachments/assets/69ac9ac0-32ca-4d49-853f-dd30e682ea17)
+
+
+
+
 ## 📌 Key Business Insights
 
 ### 📈 General Performance
@@ -102,15 +118,7 @@ The dataset includes:
 
 ---
 
-## 📊 Dashboard Highlights
-- Total Sales, Profit, Units Sold, Avg Order Value
-- Region- and City-wise Sales Trends
-- Monthly Sales Trendline (Peak in December)
-- Discount vs Profitability Relationship
-- Best and Worst Performing Products
-- Orders by Marketplace (Asia Pacific, USCA)
 
----
 
 ## 💡 Recommendations
 
@@ -136,6 +144,26 @@ The dataset includes:
 - Promote value-based pricing
 
 ---
+## E-Commerce Summary Report (Automated with Excel VBA)
+
+To streamline stakeholder reporting, I built an automated one-page performance report in Excel using VBA scripting.
+
+✅ Key Metrics Included:
+
+    Total Sales: $33.04M
+
+    Profit & Margin: $1.064M (16.36%)
+
+    Top Products & Regions
+
+    Sales by City & Customer Type
+
+This report is auto-generated via VBA, reducing manual effort and enabling quick, consistent insight sharing.
+
+🔧 Tools Used: Excel, VBA (Macros), Pivot Tables
+
+![image](https://github.com/user-attachments/assets/53780984-29e5-4710-8f11-bcec0777c83b)
+
 
 ## 📁 Files Included
 - `E-Commerce Sales Analysis Report.pdf`: Full report with analysis, insights, and recommendations.
