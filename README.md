@@ -44,8 +44,6 @@ The dataset includes:
 ---
 
 ## 🔍 Functional Excel Analysis
-
-### 1. **Basic Aggregates**
 - **Total Sales:**  
   `=SUM(Dataset!O2:O51189)`
 - **Total Quantity Sold:**  
@@ -57,9 +55,9 @@ The dataset includes:
 - **Average Order Value (AOV):**  
   `=Total Sales / Number of Orders`
 
-### 2. **Profit Margin**
-- **Formula:**  
+2. **Profit Margin** 
   `=Total Profit / Total Sales`
+<img width="750" height="317" alt="Screenshot 2025-12-01 090444" src="https://github.com/user-attachments/assets/f514471d-fd22-40de-b614-be9b171dc877" />
 
 ### 3. **Top-Selling Product**
 - **Formula:**  
@@ -68,6 +66,7 @@ The dataset includes:
 ### 4. **Lowest-Selling Product**
 - **Formula:**  
   `=INDEX(I5:I3580, MATCH(SMALL(J5:J3580, ROW(A1)), J5:J3580, 0))`
+<img width="1275" height="224" alt="Screenshot 2025-12-01 090647" src="https://github.com/user-attachments/assets/5a429e4a-3a4d-49a5-9666-8904f877149e" />
 
 ### 5. **Product-Wise Sales & Profit**
 - **Sales per Product:**  
@@ -76,6 +75,8 @@ The dataset includes:
   `=SUMIF(Dataset!L2:L51189, S3, Dataset!Q2:Q51189)`
 - **Product Count per Category:**  
   `=COUNTIF(Dataset!L2:L51189, S3)`
+  
+<img width="739" height="211" alt="Screenshot 2025-12-01 090655" src="https://github.com/user-attachments/assets/f9c3a315-6a98-44a0-bc88-e791be3d7e37" />
 
 ---
 
