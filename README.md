@@ -4,7 +4,7 @@
 ## 📊 Overview
 A comprehensive Excel-based analysis project focused on e-commerce sales data to derive actionable business insights. This project uncovers sales trends, product performance, discount impacts, and profitability, enabling strategic decision-making for business growth.
 
----
+--- 
 
 ## 🎯 Project Goals
 - Analyze e-commerce sales data across regions, markets, and categories.
