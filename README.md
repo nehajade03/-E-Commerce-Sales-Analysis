@@ -146,25 +146,39 @@ The dataset includes:
 - Promote value-based pricing and loyalty rewards to improve profit margins.
 
 ---
-## E-Commerce Summary Report (Automated with Excel VBA)
+# 📊 Automated Sales MIS Report (Excel VBA)
 
-To streamline stakeholder reporting, I built an automated one-page performance report in Excel using VBA scripting.
+Automates generation of an **E-Commerce MIS (Management Information System) report** in Excel using VBA.  
+Provide your transaction dataset, click a button, and get a clean Daily / Weekly / Monthly sales analysis.
 
-✅ Key Metrics Included:
+---
 
-    Total Sales: $33.04M
+## ✅ Features
 
-    Profit & Margin: $1.064M (16.36%)
+- Generate **Daily**, **Weekly**, and **Monthly** reports  
+- Permanent buttons on a dedicated sheet — do not overlap the report  
+- Clean summary output (no raw transaction dump)  
+- Calculates these KPIs and sections:
+  - **Sales Overview**
+    - Total Sales  
+    - Total Quantity Sold  
+    - Total Customers  
+    - Average Discount
+  - **Market Performance**
+    - Market Sales Distribution (Top Markets)  
+    - Top Cities by Sales  
+    - Sales by Customer Type
+  - **Product Performance**
+    - Total Profit  
+    - Profit Margin  
+    - Average Order Value (AOV)  
+    - Top-Selling Products  
+    - Worst-Selling Products  
+    - Top Product Categories
 
-    Top Products & Regions
+---
+<img width="1048" height="832" alt="image" src="https://github.com/user-attachments/assets/27a46928-7607-47ab-8a2c-6df62f8b8a16" />
 
-    Sales by City & Customer Type
-
-This report is auto-generated via VBA, reducing manual effort and enabling quick, consistent insight sharing.
-
-🔧 Tools Used: Excel, VBA (Macros), Pivot Tables
-
-![image](https://github.com/user-attachments/assets/53780984-29e5-4710-8f11-bcec0777c83b)
 
 
 ## 📁 Files Included
