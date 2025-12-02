@@ -79,6 +79,41 @@ The dataset includes:
 <img width="739" height="211" alt="Screenshot 2025-12-01 090655" src="https://github.com/user-attachments/assets/f9c3a315-6a98-44a0-bc88-e791be3d7e37" />
 
 ---
+# 📊 Lookup Analysis (Excel Formula Preview)
+
+This project includes a dedicated **Lookup Analysis** section that demonstrates how Excel lookup formulas extract insights from the dataset.
+
+---
+
+## 🔎 VLOOKUP Analysis
+| Product | Category (via VLOOKUP) |
+|--------|--------------------------|
+| L'Oréal Paris Preference – Light Warm Brown | `=VLOOKUP(A4, A3:G51183, 3, FALSE)` |
+
+---
+
+## 🔎 HLOOKUP Analysis
+| Product | Sales (via HLOOKUP) |
+|--------|-----------------------|
+| MAC 210 Precise Eye Liner Brush | `=HLOOKUP("Sales", A2:G51118, 3, FALSE)` |
+
+---
+
+## 🔎 XLOOKUP Analysis
+| Product | Profit (via XLOOKUP) |
+|--------|------------------------|
+| L'Oréal Paris Preference – Light Warm Brown | `=XLOOKUP("L'Oréal Paris Preference - Light Warm Brown", A2:A51183, G2:G51183)` |
+
+---
+
+## 📘 Excel Formulas Used
+```excel
+=VLOOKUP(I4, A3:G51183, 3, FALSE)
+=HLOOKUP("Sales", A2:G51118, 3, FALSE)
+=XLOOKUP("L'Oréal Paris Preference - Light Warm Brown", A2:A51183, G2:G51183)
+=VLOOKUP(L4, A3:G51183, 2, FALSE)
+
+<img width="1075" height="361" alt="image" src="https://github.com/user-attachments/assets/fe41f148-37e3-4368-bb8c-ef03277cedbb" />
 
 
 ## 📊 Dashboard Highlights
