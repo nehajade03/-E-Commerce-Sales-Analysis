@@ -104,17 +104,9 @@ This project includes a dedicated **Lookup Analysis** section that demonstrates 
 |--------|------------------------|
 | L'Oréal Paris Preference – Light Warm Brown | `=XLOOKUP("L'Oréal Paris Preference - Light Warm Brown", A2:A51183, G2:G51183)` |
 
+<img width="1060" height="380" alt="image" src="https://github.com/user-attachments/assets/20f9aacc-bfbd-4fab-b2eb-8c2fe03c45af" />
+
 ---
-
-## 📘 Excel Formulas Used
-```excel
-=VLOOKUP(I4, A3:G51183, 3, FALSE)
-=HLOOKUP("Sales", A2:G51118, 3, FALSE)
-=XLOOKUP("L'Oréal Paris Preference - Light Warm Brown", A2:A51183, G2:G51183)
-=VLOOKUP(L4, A3:G51183, 2, FALSE)
-
-<img width="1075" height="361" alt="image" src="https://github.com/user-attachments/assets/fe41f148-37e3-4368-bb8c-ef03277cedbb" />
-
 
 ## 📊 Dashboard Highlights
 - Total Sales, Profit, Units Sold, Avg Order Value
